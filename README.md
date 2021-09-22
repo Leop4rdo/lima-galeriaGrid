@@ -12,3 +12,7 @@ O objetivo do exercicio era criar uma galeria de imagens usando o display grid d
 
 -   HTML 5
 -   CSS 3
+
+## Link da pagina:
+o site pode ser acessado pelo link:
+<a href="https://leop4rdo.github.io/lima-galeriaGrid/">https://leop4rdo.github.io/lima-galeriaGrid/</a>
